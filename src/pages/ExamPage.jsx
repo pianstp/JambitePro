@@ -2,7 +2,8 @@ import { useEffect, useState } from "react";
 import { useExam } from "../context/ExamContext";
 import ExamLayout from "../layouts/ExamLayout";
 import SplitPane from "../components/exam/SplitPane";
-import SinglePane from "../components/exam/Singlepane";
+import SinglePane from "../components/exam/SinglePa";
+
 import SubmitModal from "../components/common/SubmitModal";
 import useKeyboardNav from "../hooks/UsekeyboardNav";
 
